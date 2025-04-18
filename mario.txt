@@ -8,7 +8,7 @@
     <title>Mariobet | Mariobet Giriş - Mariobet Güncel Adres 2025</title>
     <meta name="description" content="Mariobet giriş ve Mariobet güncel adres bilgileri! Mariobet kayıt, giriş ve güncel bahis olanakları için resmi site.">
     <meta name="keywords" content="mariobet, mariobet giriş, mariobet güncel, mariobet kayıt, mariobet güncel adres, mariobet bahis">
-    
+    <meta name="google-site-verification" content="f1T3pwg0nvi1Qxy27Zj-hW_dUp3lq47Y-x4GxFlW5v8" />
     <!-- OpenGraph Tags -->
     <meta property="og:title" content="Mariobet | Resmi Giriş ve Güncel Adres">
     <meta property="og:description" content="Mariobet güncel giriş adresi ve premium bahis deneyimi!">
