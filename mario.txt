@@ -1,1 +1,319 @@
+<!DOCTYPE html>
+<html lang="tr" itemscope itemtype="https://schema.org/WebSite">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- SEO Meta Tags -->
+    <title>Mariobet | Mariobet Giriş - Mariobet Güncel Adres 2025</title>
+    <meta name="description" content="Mariobet giriş ve Mariobet güncel adres bilgileri! Mariobet kayıt, giriş ve güncel bahis olanakları için resmi site.">
+    <meta name="keywords" content="mariobet, mariobet giriş, mariobet güncel, mariobet kayıt, mariobet güncel adres, mariobet bahis">
+    
+    <!-- OpenGraph Tags -->
+    <meta property="og:title" content="Mariobet | Resmi Giriş ve Güncel Adres">
+    <meta property="og:description" content="Mariobet güncel giriş adresi ve premium bahis deneyimi!">
+    <meta property="og:image" content="https://kyodoyuso.jp/logo.jpg">
+    <meta property="og:url" content="https://kyodoyuso.jp">
+    <meta property="og:type" content="website">
+    
+    <!-- Schema.org Markup -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "Mariobet",
+        "url": "https://kyodoyuso.jp",
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "{search_term_string}",
+            "query-input": "required name=search_term_string"
+        },
+        "description": "Mariobet giriş ve güncel adres çözümleri ile en güvenilir bahis platformu",
+        "keywords": "mariobet, mariobet giriş, mariobet güncel, mariobet kayıt"
+    }
+    </script>
 
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Poppins', sans-serif;
+        }
+
+        body {
+            background: #ffffff;
+            min-height: 100vh;
+            position: relative;
+            padding-bottom: 100px;
+        }
+
+        /* Navbar Styles */
+        .navbar {
+            background: linear-gradient(135deg, #ffa500, #ff8c00);
+            padding: 1rem 2rem;
+            position: fixed;
+            width: 100%;
+            top: 0;
+            z-index: 1000;
+        }
+
+        .navbar-content {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        .logo-section {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            width: 100%;
+        }
+
+        .logo {
+            color: white;
+            font-size: 32px;
+            font-weight: 700;
+            text-decoration: none;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.2);
+        }
+
+        .auth-buttons {
+            display: flex;
+            gap: 1rem;
+            margin-top: 1rem;
+        }
+
+        .auth-button {
+            background: white;
+            color: #ff8c00;
+            padding: 0.5rem 1.5rem;
+            border-radius: 20px;
+            text-decoration: none;
+            font-weight: 600;
+            transition: 0.3s;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+
+        /* Hero Section */
+        .hero {
+            margin-top: 100px;
+            padding: 4rem 2rem;
+            background: linear-gradient(135deg, #ffa500, #ff8c00);
+            color: white;
+            text-align: center;
+        }
+
+        .cta-button {
+            background: #ffffff;
+            color: #ff8c00;
+            padding: 1rem 2.5rem;
+            border-radius: 30px;
+            text-decoration: none;
+            font-weight: 700;
+            display: inline-block;
+            margin-top: 1rem;
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 15px rgba(255,140,0,0.3);
+        }
+
+        .cta-button:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 6px 20px rgba(255,140,0,0.4);
+        }
+
+        /* Content Section */
+        .content-section {
+            max-width: 1200px;
+            margin: 4rem auto;
+            padding: 0 2rem;
+        }
+
+        .info-cards {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 2rem;
+            margin-top: 3rem;
+        }
+
+        .card {
+            background: #fff8f0;
+            padding: 2rem;
+            border-radius: 15px;
+            box-shadow: 0 5px 15px rgba(255,140,0,0.1);
+            transition: 0.3s;
+            border: 1px solid #ffe4cc;
+        }
+
+        .card:hover {
+            transform: translateY(-5px);
+        }
+
+        .card h3 {
+            color: #ff8c00;
+            margin-bottom: 1rem;
+            font-size: 1.4rem;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        /* Keyword Section */
+        .keyword-section {
+            margin: 3rem 0;
+            padding: 3rem 2rem;
+            background: linear-gradient(45deg, #fff8f0, #fff3e6);
+            border-radius: 15px;
+            border: 2px solid #ffedd5;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .keyword-section::before {
+            content: "";
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 4px;
+            background: linear-gradient(90deg, #ffa500, #ff8c00);
+        }
+
+        .keyword-section h2 {
+            color: #ff8c00;
+            margin-bottom: 1.5rem;
+            font-size: 2rem;
+            position: relative;
+            padding-left: 30px;
+        }
+
+        .keyword-section h2::before {
+            content: "•";
+            color: #ff8c00;
+            position: absolute;
+            left: 0;
+            font-size: 2.5rem;
+            line-height: 1;
+        }
+
+        .keyword-section h3 {
+            color: #ff8c00;
+            margin: 1.5rem 0 1rem;
+            font-size: 1.3rem;
+        }
+
+        .keyword-section p {
+            line-height: 1.7;
+            color: #666;
+        }
+
+        /* Footer */
+        footer {
+            background: #2c2c2c;
+            color: white;
+            padding: 2rem;
+            text-align: center;
+            position: absolute;
+            bottom: 0;
+            width: 100%;
+        }
+
+        .footer-links {
+            display: flex;
+            justify-content: center;
+            gap: 2rem;
+            margin: 1rem 0;
+            flex-wrap: wrap;
+        }
+
+        .footer-links a {
+            color: #ff8c00;
+            text-decoration: none;
+            transition: 0.3s;
+        }
+
+        .footer-links a:hover {
+            color: #ffa500;
+        }
+
+        @media (min-width: 768px) {
+            .navbar-content {
+                flex-direction: row;
+                justify-content: space-between;
+            }
+            .logo-section {
+                flex-direction: row;
+                justify-content: space-between;
+                align-items: center;
+            }
+            .auth-buttons {
+                margin-top: 0;
+            }
+        }
+    </style>
+</head>
+<body>
+    <nav class="navbar">
+        <div class="navbar-content">
+            <div class="logo-section">
+                <a href="#" class="logo">Mariobet</a>
+                <div class="auth-buttons">
+                    <a href="#giris" class="auth-button">Giriş Yap</a>
+                    <a href="#kayit" class="auth-button">Kayıt Ol</a>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <section class="hero">
+        <h1>Mariobet Güncel Giriş Adresi 2025</h1>
+        <p>Mariobet'in resmi ve güncel platformuna anında erişim sağlayın!</p>
+        <a href="#giris" class="cta-button">Hemen Giriş Yap</a>
+    </section>
+
+    <div class="content-section">
+        <div class="info-cards">
+            <div class="card">
+                <h3><i class="fas fa-key"></i> Mariobet Güvenli Giriş Rehberi</h3>
+                <p>Mariobet giriş işlemlerinizde dikkat etmeniz gereken tüm detaylar. Güncel Mariobet giriş adresine nasıl ulaşabileceğinizi öğrenin.</p>
+            </div>
+            
+            <div class="card">
+                <h3><i class="fas fa-link"></i> Mariobet Güncel Adres Takibi</h3>
+                <p>Mariobet güncel link güncellemelerinden anında haberdar olun. Adres değişikliklerinde kesintisiz erişim için bizi takipte kalın.</p>
+            </div>
+            
+            <div class="card">
+                <h3><i class="fas fa-star"></i> Mariobet Avantajları</h3>
+                <p>Mariobet üyelik avantajları ve özel bonuslar. Mariobet giriş yaptıktan sonra kazançlı bahis deneyiminin keyfini çıkarın.</p>
+            </div>
+        </div>
+
+        <div class="keyword-section">
+            <h2>Mariobet Güncel Bilgiler</h2>
+            <p>Mariobet giriş adresindeki güncellemeler ve sistem yenilikleri hakkında anlık bilgilendirmeler. Mariobet güncel bahis oranları ve canlı destek hizmetleri.</p>
+            
+            <h3>Mariobet Mobil Giriş</h3>
+            <p>Mariobet giriş işlemlerinizi mobil cihazlarınızdan kolayca yapabilirsiniz. Mariobet güncel mobil uygulama bilgileri ve kullanım ipuçları.</p>
+            
+            <h3>Mariobet Güvenlik</h3>
+            <p>Mariobet giriş ve işlem güvenliği için alınan önlemler. 256-bit SSL şifreleme ile Mariobet'te güvenli bahis deneyimi.</p>
+        </div>
+    </div>
+    <footer>
+        <div class="footer-content">
+            <p>© 2025 Mariobet - Tüm hakları saklıdır</p>
+            <div class="footer-links">
+                <a href="#gizlilik">Gizlilik Politikası</a>
+                <a href="#kullanim">Kullanım Şartları</a>
+                <a href="#iletisim">İletişim</a>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
